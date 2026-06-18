@@ -1,0 +1,42 @@
+# ── Model weights (too large for GitHub; host on HuggingFace or use Git LFS) ──
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# ── Dataset (EuroSAT is publicly available; do not commit raw data) ──
+dataset/
+
+# ── Python cache ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.Python
+
+# ── Virtual environments ──
+venv/
+.venv/
+env/
+.env/
+
+# ── IDE / Editor artifacts ──
+tempCodeRunnerFile.py
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Jupyter checkpoints ──
+.ipynb_checkpoints/
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ──
+*.log
+logs/
+# Export formats
+*.onnx
