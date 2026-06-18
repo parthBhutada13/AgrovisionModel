@@ -1,27 +1,5 @@
 # Vision Transformer-Based Multi-Task Crop Mapping and Field Boundary Detection in Heterogeneous Agricultural Landscapes
 
-**Course:** Computer Vision
-
-**Degree:** Bachelor of Technology in Artificial Intelligence & Machine Learning (AY 2025-26)
-
-**Submitted By:**
-- Alabhya Sharma (23070126010)
-- Parth Bhutada (23070126084)
-- Lucy Uguwaneke (23070126169)
-- Swapnil Samrat (24070126510)
-
-**Under the Guidance of:** Dr. Sumanto Dutta, Assistant Professor
-
-**Institution:** Department of Artificial Intelligence & Machine Learning, Symbiosis International (Deemed University), Pune – 412115, Maharashtra, India
-
----
-
-## Certificate
-
-This is to certify that the Project work entitled “Vision Transformer-Based Multi-Task Crop Mapping and Field Boundary Detection in Heterogeneous Agricultural Landscapes” is carried out by the students listed above under the Computer Vision course during the academic year 2025-2026.
-
-(Guide signature block omitted)
-
 ---
 
 ## Abstract
@@ -46,8 +24,6 @@ The AgroVision project proposes a hybrid deep-learning pipeline that combines co
 ---
 
 ## 1. Introduction
-
-(See full notebook for detailed narrative.)
 
 The project addresses challenges of fragmented field shapes, spectral variability, and the need for both local and global context in agricultural classification. AgroVision fuses CNN and Transformer components, uses vegetation indices, and adds a boundary-detection head for improved spatial precision.
 
@@ -89,8 +65,3 @@ AgroVision demonstrates the benefit of hybrid local+global modelling and explici
 
 ## Figures & Tables
 Please open `main.ipynb` to view embedded figures and full experimental details.
-
----
-
-## Resume Blurb (for inclusion)
-- Developed "AgroVision": a hybrid CNN–Transformer model for multispectral crop classification and field boundary detection. Implemented training and evaluation pipelines, explainability (Grad-CAM), and a Streamlit demo for interactive exploration.
